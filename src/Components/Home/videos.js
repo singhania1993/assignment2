@@ -1,4 +1,4 @@
-import { actor1, actor2, actor3, actor4, actor5 } from '../../images'
+import { actor3 } from '../../images'
 
 export const savedVideos = [
   {

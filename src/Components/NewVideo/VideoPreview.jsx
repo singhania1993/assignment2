@@ -1,7 +1,7 @@
 import { useVideo } from '.'
 
 const VideoPreview = () => {
-  const { videoState, setVideoState } = useVideo()
+  const { videoState } = useVideo()
   return (
     <div className="video-preview">
       <div className="img-container">
