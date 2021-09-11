@@ -1,0 +1,69 @@
+.saved-videos-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 1rem;
+}
+.videos {
+  margin: 3rem 1rem;
+}
+.saved-videos {
+  margin: 1rem 1.5rem;
+  width: 100%;
+}
+.saved-video {
+  background-color: #f5f2f2;
+}
+.btn-new {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+.fw-md {
+  font-weight: 600;
+}
+hr {
+  background-color: lightgray;
+  height: 0.1px;
+}
+.saved-video {
+  width: 23rem;
+  height: 17rem;
+  text-align: center;
+  padding: 0.4rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}
+.img-container {
+  height: 13rem;
+  position: relative;
+}
+.actor-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.3rem;
+}
+.h-ellipsis {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+.fs-lg {
+  font-size: large;
+}
+.secondary-btn {
+  border: 1px solid #bab0b0;
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.3rem;
+}
+.video-types {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #bab0b0;
+}
+.mg-1 {
+  margin: 0.5rem;
+}
+.flexbox {
+  display: flex;
+}

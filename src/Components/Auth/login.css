@@ -1,0 +1,52 @@
+.login {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.textbox {
+  width: 20rem;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  border: 1px solid gray;
+}
+.textbox:focus {
+  outline: none;
+  border: 1.5px solid rgb(8, 169, 218);
+}
+.label {
+  font-size: small;
+  padding: 0.5rem 0;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 500;
+}
+.blue {
+  color: #3482e3;
+}
+.bg-green {
+  background-color: #00b200;
+}
+.text-white {
+  color: white;
+}
+.btn-login {
+  padding: 0.5rem 0.8rem;
+  border-radius: 3px;
+  margin-top: 1.5rem;
+}
+.login-footer-text {
+  margin-top: 3rem;
+}
+.error-msg {
+  text-align: right;
+}
+.color-red {
+  color: red;
+}
+.nav-link {
+  text-decoration: none;
+}
